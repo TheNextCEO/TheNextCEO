@@ -2,7 +2,7 @@
   
 ## Nice to meet you 👋
 
-My name is Benji, I graduated from [Florida State University](https://www.fsu.edu). I am a co-founder of [OpenTLH](https://twitter.com/opentlh) and [Together Not For](http://togethernotfor.com/). I'm currently interested in Data Engineering to make public data accessible to the public. Always looking for more people to collab with.
+My name is Benji, I graduated from [Florida State University](https://www.fsu.edu). I am a co-founder of [OpenTLH](https://twitter.com/opentlh) and [Together Not For](http://togethernotfor.com/). I'm currently interested in Data Engineering and making public data accessible. Always looking for more people to collab with.
   
 When I'm away from the keyboard, my hobbies include biking 🚴🏿‍♂️, hiking 🚶🏿‍♂️, 3D printing, and carpentry 🪚.
   
