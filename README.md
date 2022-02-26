@@ -43,7 +43,7 @@ Personal website coming soon
   
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheNextCEO&show_icons=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheNextCEO&show_icons=true) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheNextCEO)
   
